@@ -1,0 +1,19 @@
+{
+  "name": "react-facebook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Teddy Otieno <asolatotieno@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "prod": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "firebase": "^5.11.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
